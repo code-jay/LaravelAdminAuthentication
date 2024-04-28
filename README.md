@@ -11,4 +11,19 @@
 
 In this code repository, added the feature of Authentication for Admin and normal user
 
+To seed Admin and User account info Run:
+php artisan migrate 
+
+User Login URL : http://localhost:8000/login
+Email: test@example.com
+Password: password
+
+Admin Login URL : http://localhost:8000/admin
+Email: admin@yourdomain.com 
+Password: secret
+
+
+
+
+
 
