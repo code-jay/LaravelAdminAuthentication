@@ -7,12 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Admin and User Authentication in Laravel 11
+##  Admin and User Authentication in Laravel 11
 
 In this code repository, added the feature of Authentication for Admin and normal user
 
 To seed Admin and User account info Run:
 php artisan migrate 
+
+##  Test Login Urls
 
 User Login URL : http://localhost:8000/login
 Email: test@example.com
