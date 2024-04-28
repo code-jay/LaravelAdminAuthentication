@@ -28,6 +28,6 @@
         <button type="submit" class="btn btn-primary">Login</button>
 
         </form>
-        <a href="{{url('register')}}">Register</a>
+       
 <!-- From End -->
 @include('user/common/footer')
