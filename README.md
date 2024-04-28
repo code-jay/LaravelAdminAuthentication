@@ -16,12 +16,19 @@ php artisan migrate
 
 ##  Test Login Urls
 
+User Login URL : http://localhost:8000/login
+
 Email: test@example.com
+
 Password: password
 
+
 Admin Login URL : http://localhost:8000/admin
+
 Email: admin@yourdomain.com 
+
 Password: secret
+
 
 ##  Script Author
 Jay Ram Singh
