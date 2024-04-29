@@ -7,7 +7,7 @@
     <title>Admin Dashboard</title>
 </head>
 <body>
-    <h1>Admin Dashboard : He you will be able to do Admin Actions</h1> <a href="{{url('admin/logout')}}"> Logout </a>
+    <h1>Admin Dashboard : Here you will be able to do Admin Actions</h1> <a href="{{url('admin/logout')}}"> Logout </a>
 </body>
 </html>
 
