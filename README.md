@@ -9,7 +9,10 @@
 
 ##  Admin and User Authentication in Laravel 11
 
-In this code repository, added the feature of Authentication for Admin and normal user
+# In this code repository, added the feature of Authentication for Admin and normal user
+
+Add your database info in .env file:
+
 
 To seed Admin and User account info Run:
 
