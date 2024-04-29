@@ -5,7 +5,13 @@
 
 ## In this code repository, added the feature of Authentication for Admin and normal user
 
-Add your database info in .env file:
+Run Composer install command to download dependency:
+
+composer install
+
+Create .env file
+
+Add your MySQL server & database info in .env file:
 
 
 To seed Admin and User account info Run:
@@ -15,6 +21,9 @@ php artisan migrate
 Run seeder command to insert test logins for Admin and User
 
 php artisan db:seed
+
+It may ask for Key. Click generate Key on error page.
+
 
 ##  Test Login Urls
 
