@@ -7,9 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-##  Admin and User Authentication in Laravel 11
+# Admin and User Authentication in Laravel 11
 
-# In this code repository, added the feature of Authentication for Admin and normal user
+## In this code repository, added the feature of Authentication for Admin and normal user
 
 Add your database info in .env file:
 
