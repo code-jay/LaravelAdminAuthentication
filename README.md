@@ -12,7 +12,12 @@
 In this code repository, added the feature of Authentication for Admin and normal user
 
 To seed Admin and User account info Run:
+
 php artisan migrate 
+
+Run seeder command to insert test logins for Admin and User
+
+php artisan db:seed
 
 ##  Test Login Urls
 
