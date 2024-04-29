@@ -6,9 +6,9 @@ use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\AuthController;
 use App\Http\Controllers\UserDashboardController;
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
+Route::get('/', function () {
+    return view('welcome');
+});
 
 /* Admin Routes */
 Route::get('/admin', [BackendAuthController::class, 'login'])->name('adminlogin');
