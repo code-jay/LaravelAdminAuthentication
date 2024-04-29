@@ -1,7 +1,7 @@
 @include('admin/common/header')
 
         <div class="alert alert-primary" role="alert">
-            <h1> Admin Login</h1>
+            <h1> Admin Login : Task Management</h1>
         </div>
 
         @if($errors->any())
